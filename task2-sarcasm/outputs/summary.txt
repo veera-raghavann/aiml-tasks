@@ -1,0 +1,7 @@
+Mean text statistics by class:
+                       word_count  char_count  exclamation_count  question_count
+class                                                                           
+Genuine (HuffPost)          10.23       59.56               0.01            0.05
+Sarcastic (The Onion)       10.77       65.33               0.00            0.01
+
+Interpretation: a keyword-only rule will catch a few patterns but cannot reliably detect sarcasm because language and punctuation overlap heavily between classes.

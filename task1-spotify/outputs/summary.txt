@@ -1,0 +1,11 @@
+Rows after cleaning: 89,741
+
+Correlations with popularity:
+popularity      1.000000
+danceability    0.064281
+energy          0.013728
+tempo           0.007270
+valence        -0.011526
+acousticness   -0.038847
+
+Interpretation: audio-feature correlations are weak; genre averages vary more, but popularity is also strongly shaped by non-audio factors.
