@@ -1,6 +1,6 @@
 # AI/ML Club Recruitment Tasks
 
-This is a deliberately simple, well-documented submission. Each task is independent and can be run from its own folder.
+ Each task is independent and can be run from its own folder.
 
 ## Setup
 
